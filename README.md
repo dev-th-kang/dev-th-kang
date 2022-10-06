@@ -1,4 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=dev-th-kang&fontSize=90)
+<br><br><br><br>
+
+# It's a project in progress these days
+  * [jwt refresh token 방식을 활용한 로그인, 가입, CRUD 게시판 프로젝트 (with express)](https://github.com/dev-th-kang/restful-api-express)
+  * [Todo Bulletin Project (with fastapi)](https://github.com/dev-th-kang/fast-api)
+  * [memories-on-the-map (with android)](https://github.com/dev-th-kang/memories-on-the-map)
+    * 추억 및 친구들과의 기록을 지도상에 바로 저장, 자신만의 장소를 담은 지도를 완성하는 앱 프로젝트
+
+#
+
+<br><br>
+<br><br>
+<br><br>
 <div align="center" style="display:inline">
 <h1> 📝Tech Stack </h1>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -45,7 +58,10 @@
 
 #
 
-#### "Only actions give life strength, only moderation gives it a charm.🐍🐍" ####
+<div align="center"> 
+  <b>"Only actions give life strength, only moderation gives it a charm.🐍🐍"</b>
 
 ``` 행동만이 삶에 힘을 주고, 절제만이 삶에 매력을 준다. ```
+  
+</div>
 
