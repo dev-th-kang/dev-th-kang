@@ -10,8 +10,6 @@
 #
 
 <br><br>
-<br><br>
-<br><br>
 <div align="center" style="display:inline">
 <h1> 📝Tech Stack </h1>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
