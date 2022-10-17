@@ -3,9 +3,7 @@
 
 # It's a project in progress these days
   * [jwt refresh token 방식을 활용한 로그인, 가입, CRUD 게시판 프로젝트 (with express)](https://github.com/dev-th-kang/restful-api-express)
-  * [Todo Bulletin Project (with fastapi)](https://github.com/dev-th-kang/fast-api)
-  * [memories-on-the-map (with android)](https://github.com/dev-th-kang/memories-on-the-map)
-    * 추억 및 친구들과의 기록을 지도상에 바로 저장, 자신만의 장소를 담은 지도를 완성하는 앱 프로젝트
+  
   * [형태에 따른 인증형태 종류및 구현](https://github.com/dev-th-kang/auth-method)
     * 1차 NODEJS Express 로 구현(진행중)
     * 2차 Typescript 의 장점및 특성을 살려서 리빌딩 진행(미진행)
